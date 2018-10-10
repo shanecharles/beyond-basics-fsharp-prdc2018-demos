@@ -1,0 +1,1008 @@
+0	Dafydd ab Hugh
+1	Alexander Abasheli
+2	Edwin Abbott Abbott
+3	Kōbō Abe
+4	Robert Abernathy
+5	Dan Abnett
+6	Daniel Abraham
+7	Forrest J Ackerman
+8	Douglas Adams
+9	Robert Adams
+10	Ann Aguirre
+11	Jerry Ahern
+12	Jim Aikin
+13	Alan Burt Akers
+14	Brian Aldiss
+15	David M. Alexander
+16	Lloyd Alexander
+17	Grant Allen
+18	Roger MacBride Allen
+19	Hans Joachim Alpers
+20	Steve Alten
+21	Genrich Altshuller
+22	Kingsley Amis
+23	Paul Rafaelovich Amnuél
+24	Kevin J. Anderson
+25	Poul Anderson
+26	Patricia Anthony
+27	Piers Anthony
+28	Christopher Anvil
+29	K. A. Applegate
+30	E.L. Arch
+31	Eleanor Arnason
+32	Robert Arthur
+33	Catherine Asaro
+34	Neal Asher
+35	Francis Leslie Ashton
+36	Isaac Asimov
+37	Janet Asimov
+38	Nancy Asire
+39	Robert Asprin
+40	Francis Henry Atkins
+41	A. A. Attanasio
+42	Margaret Atwood
+43	Ayerdhal
+44	Richard Bachman
+45	Paolo Bacigalupi
+46	Hilary Bailey
+47	Robin Wayne Bailey
+48	Kage Baker
+49	Scott Baker
+50	J. G. Ballard
+51	Edwin Balmer
+52	Iain M. Banks
+53	Raymond E. Banks
+54	Marek Baraniecki
+55	Miquel Barceló
+56	René Barjavel
+57	Wayne Barlowe
+58	Arthur K. Barnes
+59	John Barnes
+60	Steven Barnes
+61	William Barnwell
+62	Donald Barr
+63	João Barreiros
+64	William Barton
+65	T. J. Bass
+66	Harry Bates
+67	L. Frank Baum
+68	John Baxter
+69	Stephen Baxter
+70	Georgy Baydukov
+71	Barrington J. Bayley
+72	Elizabeth Bear
+73	Greg Bear
+74	Jerome Beatty Jr
+75	Charles Beaumont
+76	Vladimir Beekman
+77	Alexander Beliaev
+78	Ugo Bellagamba
+79	Edward Bellamy
+80	Andrei Belyanin
+81	Don Bendell
+82	Gregory Benford
+83	Donald R. Bensen
+84	J. D. Beresford
+85	Fyodor Berezin
+86	Cyrano de Bergerac
+87	Jack Bertin
+88	Alfred Bester
+89	Bruce Bethke
+90	Ambrose Bierce
+91	Lloyd Biggle, Jr.
+92	Eando Binder
+93	John Birmingham
+94	David Bischoff
+95	Michael Bishop
+96	Terry Bisson
+97	Jerome Bixby
+98	Malorie Blackman
+99	Jayme Lynn Blaschke
+100	James Blaylock
+101	James Blish
+102	Robert Bloch
+103	Alexander Bogdanov
+104	Maya Kaathryn Bohnhoff
+105	Nelson S. Bond
+106	Kevin Bokeili
+107	Pierre Bordage
+108	Anthony Boucher
+109	Pierre Boulle
+110	Sydney James Bounds
+111	Louis Henri Boussenard
+112	Ben Bova
+113	Leigh Brackett
+114	Ray Bradbury
+115	Marion Zimmer Bradley
+116	Gillian Bradshaw
+117	Mark Brandis
+118	Miles J. Breuer
+119	Reginald Bretnor
+120	David Brin
+121	Jason V Brock
+122	Damien Broderick
+123	Kristi Brooks
+124	Max Brooks
+125	Terry Brooks
+126	John Brosnan
+127	Eric Brown
+128	Fredric Brown
+129	James Cooke Brown
+130	Rosel George Brown
+131	Simon Brown
+132	John Brunner
+133	Steven Brust
+134	Edward Bryant
+135	Valery Bryusov
+136	Tobias S. Buckell
+137	Algis Budrys
+138	Vitaly Bugrov
+139	Lela E. Buis
+140	Lois McMaster Bujold
+141	Mikhail Bulgakov
+142	Faddey Bulgarin
+143	Kenneth Bulmer
+144	Kir Bulychev
+145	Chris Bunch
+146	David R. Bunch
+147	Anthony Burgess
+148	Yuli Burkin
+149	Arthur J. Burks
+150	Edgar Rice Burroughs
+151	Michael A. Burstein
+152	F. M. Busby
+153	Aleksandr Bushkov
+154	Alain Le Bussy
+155	Jim Butcher
+156	Octavia E. Butler
+157	Stuart J. Byrne
+158	Pat Cadigan
+159	Jack Cady
+160	Martin Caidin
+161	Italo Calvino
+162	John W. Campbell, Jr.
+163	Karel Čapek
+164	Paul Capon
+165	Orson Scott Card
+166	Joseph Carne-Ross
+167	Terry Carr
+168	Lin Carter
+169	Cleve Cartmill
+170	Jeffrey Carver
+171	Jay Caselberg
+172	Hugh B. Cave
+173	Franci Cerar
+174	Jack L. Chalker
+175	Joël Champetier
+176	A. Bertram Chandler
+177	Suzy McKee Charnas
+178	Daína Chaviano
+179	Richard Chwedyk
+180	C. J. Cherryh
+181	Ted Chiang
+182	Charles Chilton
+183	John Christopher
+184	Massimo Citi
+185	Charles Heber Clark
+186	Arthur C. Clarke
+187	Jo Clayton
+188	Hal Clement
+189	John Cleve
+190	Mark Clifton
+191	Ernest Cline
+192	Mildred Clingerman
+193	Brenda Clough
+194	John Clute
+195	Stanton A. Coblentz
+196	Robbie Coburn
+197	Theodore Cogswell
+198	Frona Eunice Wait Colburn
+199	Allan Cole
+200	Robert William Cole
+201	Eoin Colfer
+202	Erroll Collins
+203	Suzanne Collins
+204	Juanita Coulson
+205	David G. Compton
+206	Michael Coney
+207	Groff Conklin
+208	Storm Constantine
+209	Glen Cook
+210	Hugh Cook
+211	Paul Cook
+212	Brenda Cooper
+213	Edmund Cooper
+214	Alfred Coppel
+215	James S. A. Corey
+216	Larry Correia
+217	Richard Cowper
+218	Erle Cox
+219	John G. Cramer
+220	Michael Crichton
+221	Robert Cromie
+222	John Crowley
+223	Andrew Crumey
+224	Ray Cummings
+225	Philippe Curval
+226	Julie E. Czerneda
+227	Roald Dahl
+228	Brian Daley
+229	John Dalmas
+230	James Dashner
+231	Tony Daniel
+232	Jack Dann
+233	Maurice Georges Dantec
+234	Dennis Danvers
+235	Clark Darlton
+236	Avram Davidson
+237	Chan Davis
+238	Vox Day
+239	L. Sprague de Camp
+240	Antonio de Macedo
+241	James De Mille
+242	Marianne de Pierres
+243	Stephen Dedman
+244	Lester del Rey
+245	Miriam Allen deFord
+246	Samuel R. Delany
+247	Martha deMey Clow
+248	Bradley Denton
+249	August Derleth
+250	A.J. Deutsch
+251	Graham Diamond
+252	Philip K. Dick
+253	Gordon R. Dickson
+254	Lyuben Dilov
+255	Dougal Dixon
+256	William C. Dietz
+257	Thomas M. Disch
+258	Alfred Döblin
+259	Cory Doctorow
+260	Stephen R. Donaldson
+261	Sonya Dorman
+262	Candas Dorsey
+263	Ian Douglas
+264	Terry Dowling
+265	Arthur Conan Doyle
+266	Debra Doyle
+267	Gardner Dozois
+268	David Drake
+269	Charles Derennes
+270	Tananarive Due
+271	Catherine Dufour
+272	Jacek Dukaj
+273	Jean-Claude Dunyach
+274	C. M. Eddy, Jr.
+275	G. C. Edmondson
+276	George Alec Effinger
+277	Ivan Antonovich Efremov
+278	Greg Egan
+279	Suzette Haden Elgin
+280	E. C. Eliott
+281	William B. Ellern
+282	Harlan Ellison
+283	Roger Elwood
+284	Carol Emshwiller
+285	M. J. Engh
+286	George Allan England
+287	Steven Erikson
+288	Walter Ernsting
+289	Andreas Eschbach
+290	Kelley Eskridge
+291	Valerio Evangelisti
+292	Christopher Evans
+293	E. Everett Evans
+294	Paul W. Fairman
+295	Jane Fancher
+296	Ralph Milne Farley
+297	Philip José Farmer
+298	Nabil Farouk
+299	Howard Fast
+300	John Russell Fearn
+301	Cynthia Felice
+302	Brad Ferguson
+303	Paul Di Filippo
+304	Sheila Finch
+305	Jack Finney
+306	Nicholas Fisk
+307	Francis Flagg
+308	Camille Flammarion
+309	Eric Flint
+310	Homer Eon Flint
+311	Michael Flynn
+312	Charles L. Fontenay
+313	Jeffrey Ford
+314	John M. Ford
+315	William R. Forstchen
+316	E. M. Forster
+317	Robert L. Forward
+318	Richard Foss
+319	Alan Dean Foster
+320	M. A. Foster
+321	Karen Joy Fowler
+322	Gardner Fox
+323	Randall Frakes
+324	Herbert W. Franke
+325	Yves Fremion
+326	C. S. Friedman
+327	Oscar J. Friend
+328	Esther Friesner
+329	Neil Gaiman
+330	Raymond Z. Gallun
+331	Daniel F. Galouye
+332	James Alan Gardner
+333	Martin Gardner
+334	Richard Garfinkle
+335	Randall Garrett
+336	Laurent Genefort
+337	Mary Gentle
+338	Alistair Gentry
+339	Peter George
+340	Hugo Gernsback
+341	David Gerrold
+342	Mark S. Geston
+343	Edward Gibson
+344	Gary Gibson
+345	William Gibson
+346	John Ulrich Giesy
+347	Alexis A. Gilliland
+348	John Glasby
+349	Molly Gloss
+350	Dmitry Glukhovsky
+351	Parke Godwin
+352	Tom Godwin
+353	H. L. Gold
+354	Lee Gold
+355	Lisa Goldstein
+356	Kathleen Ann Goonan
+357	Rex Gordon
+358	Richard Gordon
+359	Phyllis Gotlieb
+360	Ron Goulart
+361	Charles L. Grant
+362	Roland J. Green
+363	Colin Greenland
+364	William Greenleaf
+365	Percy Greg
+366	Lois Gresh
+367	George Griffith
+368	Nicola Griffith
+369	Jon Courtenay Grimwood
+370	Ken Grimwood
+371	Alexander Gromov
+372	Martin Grzimek
+373	Wyman Guin
+374	Eileen Gunn
+375	James E. Gunn
+376	PJ Haarsma
+377	Karen Haber
+378	H. Rider Haggard
+379	Ronald M. Hahn
+380	Jack C. Haldeman II
+381	Joe Haldeman
+382	Austin Hall
+383	Barbara Hambly
+384	Edmond Hamilton
+385	Peter F. Hamilton
+386	Elizabeth Hand
+387	Lee Harding
+388	Charles L. Harness
+389	Tara K. Harper
+390	Clare Winger Harris
+391	Harry Harrison
+392	M. John Harrison
+393	Henry Hasse
+394	Simon Hawke
+395	Peter Heck
+396	Robert A. Heinlein
+397	Zenna Henderson
+398	Brian Herbert
+399	Frank Herbert
+400	Philip E. High
+401	Douglas Hill
+402	Ernest Hill
+403	Charles Howard Hinton
+404	Christopher Hinz
+405	Morioka Hiroyuki
+406	P. C. Hodgell
+407	William Hope Hodgson
+408	E. T. A. Hoffman
+409	Lee Hoffman
+410	Ludvig Holberg
+411	H. H. Hollis
+412	James P. Hogan
+413	Elizabeth Holden
+414	Robert Holdstock
+415	Nalo Hopkinson
+416	Shinichi Hoshi
+417	Robert Ervin Howard
+418	Fred Hoyle
+419	L. Ron Hubbard
+420	Marek Huberath
+421	Matt Hughes
+422	Monica Hughes
+423	Edna Mayne Hull
+424	Cyril Hume
+425	Stephen Hunt
+426	Dave Hutchinson
+427	Aldous Huxley
+428	Dean Ing
+429	Simon Ings
+430	Muhammed Zafar Iqbal
+431	Emmi Itäranta
+432	John Jakes
+433	Malcolm Jameson
+434	Phil Janes
+435	Laurence Janifer
+436	Wolfgang Jeschke
+437	K. W. Jeter
+438	Michel Jeury
+439	Xia Jia
+440	George Clayton Johnson
+441	D. F. Jones
+442	Gwyneth Jones
+443	Neil R. Jones
+444	Raymond F. Jones
+445	Diana Wynne Jones
+446	Robert Jordan
+447	M. K. Joseph
+448	Emmanuel Jouanne
+449	Theodore Judson
+450	Franz Kafka
+451	Janet Kagan
+452	Michael Kandel
+453	Colin Kapp
+454	Alexander Kazantsev
+455	Joseph E. Kelleam
+456	David H. Keller
+457	James Patrick Kelly
+458	Steven L. Kent
+459	Katharine Kerr
+460	John Kessel
+461	Roy Kettle
+462	Alexander Key
+463	Daniel Keyes
+464	Gregory Keyes
+465	David Kier
+466	Caitlín R. Kiernan
+467	Lee Killough
+468	Wade A. Kimberlin
+469	Sara King
+470	Stephen King
+471	T. Jackson King
+472	Vincent King
+473	Rudyard Kipling
+474	John Kippax
+475	Annette Curtis Klause
+476	Donald Kingsbury
+477	Hugh Kingsmill
+478	David Barr Kirtley
+479	Gérard Klein
+480	Otis Adelbert Kline
+481	Nigel Kneale
+482	Damon Knight
+483	Norman L. Knight
+484	Dean R. Koontz
+485	Cyril M. Kornbluth
+486	Tom Kratman
+487	Nancy Kress
+488	Günther Krupkat
+489	Zoran Krušvar
+490	Michael P. Kube-McDowell
+491	Michael Kurland
+492	Henry Kuttner
+493	W. S. Lach-Szyrma
+494	R. A. Lafferty
+495	Louis L'Amour
+496	Geoffrey Landis
+497	David Langford
+498	Sterling E. Lanier
+499	Justine Larbalestier
+500	Glen A. Larson
+501	Kurd Lasswitz
+502	Philip Latham
+503	Yulia Latynina
+504	Keith Laumer
+505	Stephen R. Lawhead
+506	Ursula K. Le Guin
+507	Ann Leckie
+508	Gentry Lee
+509	Mary Soon Lee
+510	Sharon Lee
+511	Stan Lee
+512	Tanith Lee
+513	Yoon Ha Lee
+514	Fritz Leiber
+515	Murray Leinster
+516	Stanisław Lem
+517	Edward M. Lerner
+518	Milton Lesser
+519	Doris Lessing
+520	Jonathan Lethem
+521	David D. Levine
+522	Paul Levinson
+523	Roger Levy
+524	C. S. Lewis
+525	Shariann Lewitt
+526	Jacqueline Lichtenberg
+527	Jean-Marc Ligny
+528	Brad Linaweaver
+529	Dénis Lindbohm
+530	David Lindsay
+531	Liu Cixin
+532	Ken Liu
+533	John Uri Lloyd
+534	Jack London
+535	Frank Belknap Long
+536	Barry B. Longyear
+537	Jean Lorrah
+538	H. P. Lovecraft
+539	Archibald Low
+540	Nathan Lowell
+541	Robert A. W. Lowndes
+542	Lois Lowry
+543	George Lucas
+544	Lucian
+545	Nicole Luiken
+546	Sergey Lukyanenko
+547	Sam Lundwall
+548	Duncan Lunan
+549	Richard A. Lupoff
+550	Elizabeth A. Lynn
+551	Edward Bulwer-Lytton
+552	Darko Macan
+553	James D. Macdonald
+554	John D. MacDonald
+555	F. Gwynplaine MacIntyre
+556	R. W. Mackelworth
+557	Katherine MacLean
+558	Ian R. MacLeod
+559	Ken MacLeod
+560	Angus MacVicar
+561	Tom Maddox
+562	Charles Eric Maine
+563	Donald Malcolm
+564	Daryl F. Mallett
+565	Barry N. Malzberg
+566	Laurence Manning
+567	Leo Margulies
+568	Stephen Marley
+569	Paul Marlowe
+570	George R. R. Martin
+571	David Marusek
+572	Richard Matheson
+573	Susan R. Matthews
+574	Julian May
+575	Ged Maybury
+576	Paul J. McAuley
+577	Ed McBain
+578	Anne McCaffrey
+579	Wil McCarthy
+580	David McDaniel
+581	Jack McDevitt
+582	Ian McDonald
+583	William P. McGivern
+584	Maureen F. McHugh
+585	J. T. McIntosh
+586	Vonda McIntyre
+587	Richard McKenna
+588	Neil McMahon
+589	Sean McMullen
+590	Mike McQuay
+591	John Meaney
+592	S. P. Meek
+593	R.M. Meluch
+594	Miguel Mendonça
+595	Richard C. Meredith
+596	Robert Merle
+597	Judith Merril
+598	A. Merritt
+599	Sam Merwin Jr.
+600	Melinda Metz
+601	Robert A. Metzger
+602	Stephenie Meyer
+603	China Miéville
+604	Victor Milan
+605	P. Schuyler Miller
+606	Walter M. Miller, Jr.
+607	Edward Page Mitchell
+608	Kirk Mitchell
+609	Syne Mitchell
+610	Naomi Mitchison
+611	Premendra Mitra
+612	L. E. Modesitt, Jr.
+613	Judith Moffett
+614	Donald Moffitt
+615	Thomas F. Monteleone
+616	Elizabeth Moon
+617	Michael Moorcock
+618	Alan Moore
+619	C. L. Moore
+620	Patrick Moore
+621	Ward Moore
+622	Daniel Keys Moran
+623	Dan Morgan
+624	Richard Morgan
+625	Chris Moriarty
+626	Chris Morris
+627	Janet Morris
+628	William Morrison
+629	James Morrow
+630	Sam Moskowitz
+631	Pat Murphy
+632	Linda Nagata
+633	Jayant Narlikar
+634	Grant Naylor
+635	Ondrej Neff
+636	Geoff Nelder
+637	Ray Nelson
+638	István Nemere
+639	Josef Nesvadba
+640	Kris Neville
+641	Yuri Nikitin
+642	Larry Niven
+643	Nick Nielsen
+644	William F. Nolan
+645	Jeff Noon
+646	John Norman
+647	Lisanne Norman
+648	Eric North
+649	Andre Norton
+650	Philip Francis Nowlan
+651	Alan E. Nourse
+652	Eric S. Nylund
+653	Robert C. O'Brien
+654	Kevin O'Donnell, Jr.
+655	Patrick O'Leary
+656	Raven Oak
+657	Vladimir Obruchev
+658	Edwin Vincent Odle
+659	Andrew J. Offutt
+660	Nnedi Okorafor
+661	Chad Oliver
+662	Bob Olsen
+663	Jerry Oltion
+664	John Ostrander
+665	Jerry Ordway
+666	Marek Oramus
+667	Rebecca Ore
+668	George Orwell
+669	A. K. Otterness
+670	Michel Pagel
+671	George Pal
+672	David R. Palmer
+673	Raymond A. Palmer
+674	Edgar Pangborn
+675	Alexei Panshin
+676	Cory Panshin
+677	Richard Parks
+678	James Patterson
+679	Stel Pavlou
+680	Donald G. Payne
+681	Hayford Peirce
+682	Charles Pellegrino
+683	Dalibor Perković
+684	Lawrence Person
+685	Steve Perry
+686	Emil Petaja
+687	John T. Phillifent
+688	Mark Phillips
+689	Peter Phillips
+690	Rog Phillips
+691	Eden Phillpotts
+692	Bal Phondke
+693	John R. Pierce
+694	Marge Piercy
+695	H. Beam Piper
+696	Doris Piserchia
+697	Brian Plante
+698	Charles Platt
+699	P. J. Plauger
+700	Van Allen Plexico
+701	Edgar Allan Poe
+702	Frederik Pohl
+703	Arthur Porges
+704	Jerry Pournelle
+705	Gareth L. Powell
+706	Tim Powers
+707	Terry Pratchett
+708	Fletcher Pratt
+709	Robert Presslie
+710	Paul Preuss
+711	Christopher Priest
+712	Philip Pullman
+713	Roberto Quaglia
+714	William Thomas Quick
+715	Daniel Quinn
+716	Ayn Rand
+717	Hannu Rajaniemi
+718	Marta Randall
+719	Sujatha Rangarajan
+720	Bill Ransom
+721	Carlos Rasch
+722	Melanie Rawn
+723	Satyajit Ray
+724	Tom Reamy
+725	Robert Reed
+726	Philip Reeve
+727	Miha Remec
+728	Maurice Renard
+729	Ed Earl Repp
+730	Laura Resnick
+731	Mike Resnick
+732	Lester del Rey
+733	Alastair Reynolds
+734	Mack Reynolds
+735	Christopher Rice
+736	Christopher Ride
+737	John Ringo
+738	Adam Roberts
+739	Keith Roberts
+740	Shauna S. Roberts
+741	Frank M. Robinson
+742	Jeanne Robinson
+743	Kim Stanley Robinson
+744	Spider Robinson
+745	Justina Robson
+746	Esther Rochon
+747	Ross Rocklynne
+748	Gene Roddenberry
+749	Simon Rose
+750	Joel Rosenberg
+751	J.-H. Rosny
+752	Patrick Rothfuss
+753	Milton A. Rothman
+754	Tony Rothman
+755	William Rotsler
+756	Christopher Rowley
+757	Rudy Rucker
+758	Kristine Kathryn Rusch
+759	Joanna Russ
+760	Richard Paul Russo
+761	Eric Frank Russell
+762	Mary Doria Russell
+763	Geoff Ryman
+764	Fred Saberhagen
+765	Carl Sagan
+766	Nick Sagan
+767	Don Sakers
+768	Margaret St. Clair
+769	Emilio Salgari
+770	Domingo Santos
+771	Pamela Sargent
+772	Al Sarrantonio
+773	Robert J. Sawyer
+774	John Scalzi
+775	Nat Schachner
+776	K. H. Scheer
+777	Paul Scheerbart
+778	Herman George Scheffauer
+779	Joseph Schlossel
+780	James H. Schmitz
+781	Stanley Schmidt
+782	Lawrence M. Schoen
+783	Karl Schroeder
+784	J. Neil Schulman
+785	George H. Scithers
+786	Thomas N. Scortia
+787	Arthur Sellings
+788	Józef Sękowski
+789	Rod Serling
+790	Garrett P. Serviss
+791	Michael Shaara
+792	William Shatner
+793	Richard S. Shaver
+794	Bob Shaw
+795	Nisi Shawl
+796	Michael Shea
+797	Robert Sheckley
+798	Charles Sheffield
+799	Mary Shelley
+800	Lucius Shepard
+801	Joel Shepherd
+802	M. P. Shiel
+803	R. C. Sherriff
+804	T. L. Sherred
+805	Lewis Shiner
+806	Sharon Shinn
+807	Wilmar H. Shiras
+808	John Shirley
+809	Shumil
+810	William Shunn
+811	Luís Filipe Silva
+812	Robert Silverberg
+813	Clifford D. Simak
+814	Dan Simmons
+815	Johanna Sinisalo
+816	Curt Siodmak
+817	John Sladek
+818	William Sleator
+819	Henry Slesar
+820	William Milligan Sloane III
+821	Joan Slonczewski
+822	George Edgar Slusser
+823	Clark Ashton Smith
+824	Cordwainer Smith
+825	E. E. Smith
+826	Michael Marshall Smith
+827	George H. Smith
+828	George O. Smith
+829	L. Neil Smith
+830	Melinda Snodgrass
+831	Jerry Sohl
+832	Martha Soukup
+833	Steven Spielberg
+834	Norman Spinrad
+835	Nancy Springer
+836	Margaret St. Clair
+837	Dana Stabenow
+838	Brian Stableford
+839	Michael Stackpole
+840	Olaf Stapledon
+841	Roman Frederick Starzl
+842	Christopher Stasheff
+843	John Steakley
+844	Allen Steele
+845	Angela Steinmüller
+846	Karlheinz Steinmüller
+847	Neal Stephenson
+848	Jacques Sternberg
+849	Bruce Sterling
+850	Francis Stevens
+851	Marc Stiegler
+852	G. Harry Stine
+853	S. M. Stirling
+854	Sam Stone
+855	John E. Stith
+856	J. Michael Straczynski
+857	Giampietro Stocco
+858	Manning Lee Stokes
+859	Charles Stross
+860	Arkady and Boris Strugatsky
+861	Theodore Sturgeon
+862	Somtow Sucharitkul
+863	Tricia Sullivan
+864	Michael Swanwick
+865	Jonathan Swift
+866	Michael Szameit
+867	John Taine
+868	Stephen Tall
+869	Yoshiki Tanaka
+870	Charles R. Tanner
+871	Andrius Tapinas
+872	Howard Tayler
+873	Mark Anthony Taylor
+874	Travis S Taylor
+875	Steve Rasnic Tem
+876	William F. Temple
+877	Tais Teng
+878	William Tenn
+879	Sheri S. Tepper
+880	Tom Terry
+881	Walter Tevis
+882	Felix Thijssen
+883	Theodore L. Thomas
+884	Robert Thurston
+885	Mark W. Tiedemann
+886	Patrick Tilley
+887	James Tiptree Jr.
+888	Lavie Tidhar
+889	Aleksei Nikolaevich Tolstoi
+890	Arthur Tofte
+891	Karen Traviss
+892	F. Orlin Tremaine
+893	Edwin Charles Tubb
+894	George Tucker
+895	Wilson Tucker
+896	George Turner
+897	Harry Turtledove
+898	Mary Turzillo
+899	Lisa Tuttle
+900	John Twelve Hawks
+901	Kathy Tyers
+902	Steven Utley
+903	Jack Vance
+904	Jeff VanderMeer
+905	James Van Pelt
+906	Sydney J. Van Scyoc
+907	Robert E. Vardeman
+908	A. E. van Vogt
+909	John Varley
+910	Vladimir Vasilyev
+911	Vercors
+912	Jules Verne
+913	Alpheus Hyatt Verrill
+914	Harl Vincent
+915	Joan D. Vinge
+916	Vernor Vinge
+917	Voltaire
+918	Elisabeth Vonarburg
+919	Kurt Vonnegut, Jr.
+920	Roland C. Wagner
+921	Howard Waldrop
+922	Edgar Wallace
+923	F. L. Wallace
+924	Ian Wallace
+925	Hugh Walters
+926	Bryce Walton
+927	Jo Walton
+928	Donald Wandrei
+929	Ian Watson
+930	Lawrence Watt-Evans
+931	Peter Watts
+932	Don Webb
+933	David Weber
+934	Stanley G. Weinbaum
+935	Richard M. Weiner
+936	Andy Weir
+937	Jan Weiss
+938	Manly Wade Wellman
+939	Angus Wells
+940	Basil Wells
+941	H. G. Wells
+942	Martha Wells
+943	Chuck Wendig
+944	K. D. Wentworth
+945	Bernard Werber
+946	Wallace West
+947	Scott Westerfeld
+948	Suzanne Weyn
+949	Dennis Wheatley
+950	James White
+951	Steve White
+952	Ted White
+953	Sonny Whitelaw
+954	Cherry Wilder
+955	Kate Wilhelm
+956	Lynda Williams
+957	Liz Williams
+958	Rob Williams
+959	Robert Moore Williams
+960	Sean Williams
+961	Tad Williams
+962	Walter Jon Williams
+963	Jack Williamson
+964	Michael Z. Williamson
+965	Connie Willis
+966	Colin Wilson
+967	D. Harlan Wilson
+968	F. Paul Wilson
+969	Robert Anton Wilson
+970	Robert Charles Wilson
+971	Richard Wilson
+972	David Wingrove
+973	Adam Wiśniewski-Snerg
+974	Otto Witt
+975	Bernard Wolfe
+976	Gene Wolfe
+977	Donald A. Wollheim
+978	Edmund Wnuk-Lipinski
+979	Jack Womack
+980	John C. Wright
+981	S. Fowler Wright
+982	Stefan Wul
+983	Philip Wylie
+984	John Wyndham
+985	Nir Yaniv
+986	Tetsu Yano
+987	Chelsea Quinn Yarbro
+988	Jane Yolen
+989	Robert Franklin Young
+990	Charles Yu
+991	Arthur Leo Zagat
+992	Timothy Zahn
+993	Janusz Zajdel
+994	Yevgeny Zamyatin
+995	George Zebrowski
+996	Roger Zelazny
+997	Alexander Zelenyj
+998	Tully Zetford
+999	Sarah Zettel
+1000	Rafal A. Ziemkiewicz
+1001	Andrzej Ziemiański
+1002	Aleksandar Ziljak
+1003	Werner Zillig
+1004	David Zindell
+1005	Zoran Živković
+1006	Pamela Zoline
+1007	Joseph Zornado
