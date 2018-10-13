@@ -3,14 +3,24 @@ type Order = { OrderId    : int
                CustomerId : int
                OrderItems : string list }
 
+
+
 let order1 = { OrderId=1
                CustomerId=1
                OrderItems=["Fries"] }
 
+
+
+
 order1 = { order1 with OrderItems = "Car" :: order1.OrderItems }
 
 
+
 let order2 = { order1 with OrderItems = "Car" :: order1.OrderItems }
+
+
+
+
 let order3 = { order1 with OrderItems = [] }
 
 

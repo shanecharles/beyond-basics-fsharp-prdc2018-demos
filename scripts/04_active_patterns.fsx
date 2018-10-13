@@ -1,5 +1,46 @@
 open System
 
+
+// Parameterized Partial Patterns
+
+let (|StringsMatch|_|) (patterns : string seq) (v : string) =
+    if patterns |> Seq.exists (fun p -> p.Equals(v, StringComparison.CurrentCultureIgnoreCase))
+    then Some (v.ToUpper())
+    else None
+
+
+
+let (|RegexMatch|_|) (pattern : string) v =
+    let m = System.Text.RegularExpressions.Regex.Match (v, pattern)
+    if m.Success
+    then [ for m' in m.Groups do 
+               yield m'.Value ] 
+         |> List.skip 1   
+         |> Some
+    else None
+
+
+
+
+let validateEntry name =
+    match name with
+    | StringsMatch ["car"; "bat"] n         -> sprintf "Valid: %s" n
+    | RegexMatch "(\d*) (?i:even|odd) .*" _ -> sprintf "Valid: %s" name
+    | _                                     -> sprintf "Invalid: %s" name
+
+
+
+
+
+
+validateEntry "BAT"
+
+validateEntry "123 odd st."
+
+validateEntry "124 evens ave."
+
+
+
 let (|DayMonth|) (date : System.DateTime) =
     date.Day, date.Month
 
@@ -30,22 +71,7 @@ DateTime(2008, 2, 29) |> printSpecialDay
 
 
 
-let (|StringsMatch|_|) (patterns : string seq) (v : string) =
-    let c = v, StringComparison.CurrentCultureIgnoreCase
-    if patterns |> Seq.exists (fun p -> p.Equals c)
-    then Some (v.ToUpper())
-    else None
 
-
-
-let (|RegexMatch|_|) (pattern : string) v =
-    let m = System.Text.RegularExpressions.Regex.Match (v, pattern)
-    if m.Success
-    then [ for m' in m.Groups do 
-               yield m'.Value ] 
-         |> List.skip 1   
-         |> Some
-    else None
 
 
 let rec printItem item =
@@ -58,6 +84,10 @@ let rec printItem item =
         -> printf "Promotional "
            printItem v
     | v -> printfn "%s" v
+
+
+printItem "promo: car"
+printItem "car"
 
 
 

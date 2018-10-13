@@ -2,32 +2,28 @@ module ValidationRules
 
 open System
 
-type Item = {
-    Name : string
-    Cost : decimal
-}
 
-type OrderItem = {
-    Item  : Item
-    Units : int
-}
+type Item = 
+  { Name : string
+    Cost : decimal }
 
-type Address = {
-    Address1 : string
-    Address2 : string
-}
+type OrderItem = 
+  { Item  : Item
+    Units : int }
 
-type Customer = {
-    CustomerId : int
+type Address = 
+  { Address1 : string }
+
+type Customer = 
+  { CustomerId : int
     Name       : string
     Address    : Address
-    Credit     : decimal
-}
+    Credit     : decimal }
 
-type Order = { OrderId    : int
-               Customer   : Customer
-               OrderItems : OrderItem list }
-
+type Order = 
+  { OrderId    : int
+    Customer   : Customer
+    OrderItems : OrderItem list }
 
 
 
@@ -59,7 +55,7 @@ let emptyCustomerNameRule customer =
 
 
 let emptyAddressRule address = 
-    if [ address.Address1; address.Address2 ] |> Seq.exists (String.IsNullOrWhiteSpace >> not)
+    if [ address.Address1 ] |> Seq.exists (String.IsNullOrWhiteSpace >> not)
     then None
     else Some "Address cannot be completely empty."
 
@@ -77,7 +73,7 @@ let isEven x = x % 2 = 1
 
 
 let validateAddress (address : Address) = 
-    [address.Address1; address.Address2]
+    [address.Address1]
     |> Seq.exists 
             (function 
                 | RegexMatch "(\d*) (?i:even).*" num -> num |> Seq.head |> int |> isEven
