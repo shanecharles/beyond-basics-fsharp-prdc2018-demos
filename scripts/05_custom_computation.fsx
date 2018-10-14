@@ -27,14 +27,14 @@ let car = {Name="Car";Cost=19.95M}
 let bat = {Name="Bat";Cost=99.95M}
 
 
-let empty = {OrderId=1; Customer={CustomerId=1; Name="Ter"; Credit=300M; Address={Address1="";Address2=""}}; OrderItems=[]}
+let empty = {OrderId=1; Customer={CustomerId=1; Name="Ter"; Credit=300M; Address={Address1=""}}; OrderItems=[]}
 
 
 let negative = {empty with OrderItems = [{Item=car; Units= -1}; {Item=bat; Units=2}]}
 
 
 let goodOrder = {empty with OrderItems = [{Item=car; Units=1}; {Item=bat; Units=2}]; 
-                        Customer = {empty.Customer with Address = {Address1="here";Address2=""}}}
+                        Customer = {empty.Customer with Address = {Address1="here"}}}
 
 
 
@@ -66,19 +66,18 @@ let validateOrder orderValidations customerValidations addressValidations (order
 
 let v = validateOrder newOrderValidations customerValidations addressValidations
 
+v empty
+v negative
+v goodOrder
 
-type ValidationResult<'a,'b> =
-    | Ok of 'a
-    | Failed of 'b
 
-type ValidationResultBuilder () =
-    member this.Bind(m, f) =
-        match m with 
-        | Ok v     -> f v
-        | Failed e -> Failed e
 
-    member this.Return(v) =
-        Ok v
+
+
+
+
+// Creating our own computation expression
+
 
 type ValidateOrderBuilder () =
     member this.Bind(m, f) =
@@ -104,11 +103,13 @@ let lift (validator : Order -> string list) (err : string seq -> OrderResult) or
 
 
 
+
 let getCustomer order = order.Customer
 let getAddress customer = customer.Address 
 let getOrderAddress : Order -> Address = getCustomer >> getAddress
 
-type ValidatedAddress = ValidatedAddress of Address
+
+
 
 
 
@@ -125,12 +126,6 @@ let validateOrder' orderValidations customerValidations addressValidations (orde
 
 
 let v' = validateOrder' newOrderValidations customerValidations addressValidations
-
-
 v' empty
-
-
 v' negative
-
-
 v' goodOrder

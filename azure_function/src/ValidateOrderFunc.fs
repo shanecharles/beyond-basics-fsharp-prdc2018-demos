@@ -9,7 +9,7 @@ open Microsoft.AspNetCore.Mvc
 open Newtonsoft.Json
 
 
-type BuilderResult<'a> = 
+type ValidateResult<'a> = 
     | Valid of 'a
     | Invalid of string
 
