@@ -11,6 +11,11 @@ let fib n : int64 =
 
 
 
+fib 41
+
+
+
+
 
 
 
@@ -24,6 +29,9 @@ let fibTCO n : int64 =
 
 
 
+fibTCO 41
+fibTCO 41 = fib 41
+
 
 
 
@@ -35,6 +43,7 @@ let fibMem n : int64 =
         | true, v  -> v
         | _        -> cache.[y] <- (f y)
                       cache.[y]
+
     let rec loop x =
         if x <= 1L then x
         else 
@@ -45,10 +54,28 @@ let fibMem n : int64 =
 
 
 
+
+
+fibMem 41
+fibMem 41 = fibTCO 41
+
+
+
+
+
+
+
+
 // Non-recursive function
 let fibSeq = (0L,1L) |> Seq.unfold (fun (x, y) -> Some (y, (y, y+x))) 
 
-let fibSeq' n : int64 =
+fibSeq |> Seq.take 10 |> Seq.toList
+
+let fibUnfold n : int64 =
     fibSeq
     |> Seq.skip (n-1)
     |> Seq.head
+
+
+fibUnfold 41
+fibUnfold 41 = fibMem 41

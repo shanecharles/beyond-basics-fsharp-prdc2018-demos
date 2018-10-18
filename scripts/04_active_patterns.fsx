@@ -22,6 +22,8 @@ let (|RegexMatch|_|) (pattern : string) v =
 
 
 
+
+
 let validateEntry name =
     match name with
     | StringsMatch ["car"; "bat"] n         -> sprintf "Valid: %s" n
@@ -31,13 +33,17 @@ let validateEntry name =
 
 
 
-
-
 validateEntry "BAT"
-
 validateEntry "123 odd st."
-
 validateEntry "124 evens ave."
+
+
+
+
+
+
+
+
 
 
 

@@ -1,5 +1,67 @@
 
 
+let iLoveFSharp = "F# |> I heart"
+
+
+let sayIt s = printfn "%s" s
+
+
+
+iLoveFSharp |> sayIt 
+
+
+
+
+let toFSharpOption (s : string) =
+    if s.ToLower().Contains("f#") 
+    then Some s
+    else None
+
+
+
+let printStringOption s =
+    match s with
+    | Some v -> printfn "%s" v
+    | None   -> printfn "I have nothing to say."
+
+
+
+
+
+
+
+
+
+
+
+let nullToOption (v : 'a) =
+    if isNull v 
+    then None
+    else Some v
+
+
+
+
+
+
+
+
+
+let tellMeAboutFSharp s =
+    s |> toFSharpOption
+      |> printStringOption
+
+
+let tellMeAboutFSharp' = toFSharpOption >> printStringOption
+
+
+"F# is awesome" |> tellMeAboutFSharp
+"F# is awesome" |> tellMeAboutFSharp'
+
+"C# can be great" |> tellMeAboutFSharp
+
+
+
 
 type Order = { OrderId    : int
                CustomerId : int
