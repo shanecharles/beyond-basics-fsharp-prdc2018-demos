@@ -38,16 +38,14 @@ fibTCO 41 = fib 41
 // Memoization
 let fibMem n : int64 =
     let cache = System.Collections.Generic.Dictionary<int64, int64>()
-    let addCache f y = 
-        match cache.TryGetValue y with
-        | true, v  -> v
-        | _        -> cache.[y] <- (f y)
-                      cache.[y]
 
     let rec loop x =
         if x <= 1L then x
+        elif cache.ContainsKey x then cache.[x]
         else 
-            (addCache loop (x-1L)) + (addCache loop (x-2L))
+            let r = (loop (x-1L)) + (loop (x-2L))
+            cache.[x] <- r
+            r
     loop (int64 n)
 
 
