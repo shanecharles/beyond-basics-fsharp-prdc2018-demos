@@ -1,6 +1,6 @@
 ## Beyond the Basics Demos
 
-The code in the scripts directory is meant to be run in F# Interactive (FSI).
+The code in the scripts directory is meant to be run in F# Interactive (FSI). The `azure_function` directory contains the dotnet core library that may be deployed to Azure Functions.
 
 I recommend [Visual Studio Code](https://code.visualstudio.com/) with the [Ionide-FSharp](http://ionide.io/) extension.
 
